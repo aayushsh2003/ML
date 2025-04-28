@@ -17,7 +17,7 @@ Welcome to the **Machine Learning Lab** repository. This collection contains pra
 - **Objective:** Implement and demonstrate the FIND-S algorithm to find the most specific hypothesis based on a given set of training data samples.
 - **Dataset Used:** `IsPlay or not` (5 samples)
 - **Date:** 16-17 Jan 2025
-- **GitHub Link:** [FIND-S Algorithm](https://github.com/aayushsh2003/ML/blob/main/Experiment/Exp_1_FIND_S_Algorithm.ipynb)
+- **GitHub Link:** [FIND-S Algorithm].(https://github.com/aayushsh2003/ML/tree/main/Experiment/Experiment%201)
 - **Performance Mark:** To be filled
 
 ---
